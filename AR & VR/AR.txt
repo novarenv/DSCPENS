@@ -1,0 +1,13 @@
+AR(Augment)> Obejct diatas dunia nyata
+VR(Virtual)> Dunia nyata ke dunia maya
+MR> Digital ke nyata, bisa interaksi> ex: Hall of lens
+
+Scans > Compares > Positions > Renders
+
+Marker> Barcode & QR Code (Black and White)> kearah benda
+Markerless> Abstract, fleksibel> ex: Snapchat, Ig
+
+Tool:
+Vuforia
+ARCore
+ARToolKit

@@ -1,0 +1,14 @@
+Ernie
+Enjiao Chene
+
+Code for Asia
+return Good, Evil ? depends;
+Tech in SIngapore and China
+Benefits in AI, how the comunity in there, implementation
+
+AI
+http://bit.ly/dsc_tensorflowjs
+Pretrained model -> convert to TF.js
+github.com/tensorflow/tfjs-models
+Official repositories, ex: MobileNet
+Model soruce -> Calassifier, prediction, results

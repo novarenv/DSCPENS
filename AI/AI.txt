@@ -1,0 +1,19 @@
+//medium
+Supervised > Label
+Classificaction
+Regression
+
+Un >algoritma
+Clustering
+
+Reinforcement > latihan
+
+//medium marketing and entrepreneur
+
+AI>ML>DL
+
+//TensorFlow
+Tensor > Simpan data berupa array, shape/dimensi (default 2 dimensi)
+- Isi tensor tetap, ada perubahan disimpan di variable baru
+Operations
+Model

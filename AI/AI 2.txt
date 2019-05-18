@@ -1,0 +1,15 @@
+https://medium.com/@rizafahmi22/screencast-singkat-tentang-tensorflow-js-7e7c3aa6506e
+
+Library
+https://ml5js.org/docs/getting-started.html
+p5
+ml5
+
+Regresi linear cocok data dikit
+Neural network untuk data yang banyak data atau parameternya
+
+Free data set
+archive.ics.uci.edu
+
+Neuro Linguistic Programming
+Decision Suport System

@@ -1,0 +1,8 @@
+github.com/adeguntur/QuizBotDialogflow
+
+Agents -> untuk menjawab pertanyaan
+Intent -> mapping antara percakapan
+Entities -> ekstrak parameter dari bahasa
+Action & Parameter
+Fulfillment -> webhoook ditrigger dialogflow
+Integration

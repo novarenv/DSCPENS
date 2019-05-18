@@ -1,0 +1,5 @@
+Modul
+bit.ly/cloudstudyjamnsc
+
+Baseline: Data, ML, Ai
+Introduction to SQL for Big Query and Cloud SQL
